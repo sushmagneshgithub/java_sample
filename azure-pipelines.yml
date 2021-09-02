@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: Azure Pipelines
-  vimage: windows-2019
+  vmImage: windows-2019
   demands: maven
 
 steps:
