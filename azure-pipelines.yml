@@ -9,7 +9,6 @@ trigger:
 pool:
   name: Azure Pipelines
   vmImage: windows-2019
-  demands: maven
 
 steps:
 - task: Maven@3
