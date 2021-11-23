@@ -42,7 +42,7 @@ task hello {
 ////////
 // Destructive way of ensuring that Tomcat has a good user cred set
 // for the Manager GUI for easier admin of Tomcat in an Azure VM
-// instance
+// instance.
 //
 // On my Mac it's 
 String tomcatDir = '/usr/local/Cellar/tomcat/8.0.30/libexec/'

@@ -115,13 +115,11 @@ public class DataAccess
                 }
                 return results;
             }
-		}
-		catch (SQLException sqlEx) {
+		}catch (SQLException sqlEx) {
 			sqlEx.printStackTrace();
 			return Collections.emptyList();
 		}
 	}
-	
 	/**
 	 * Return all the fares for a given Employee object
 	 */
