@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>HiSushmaGanesh Login</title>
+    <title>HiSushmaGaneshKumar Login</title>
     <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
     <link rel="stylesheet" type="text/css" href="App/Themes/Lumen/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="App/Modules/Core/Css/core.css">
